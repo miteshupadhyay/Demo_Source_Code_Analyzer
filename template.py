@@ -12,7 +12,8 @@ list_of_files = [
     "setup.py",
     "app.py",
     "research/trials.ipynb",
-    "requirements.txt"
+    "requirements.txt",
+    "store_index.py"
 ]
 
 for filepath in list_of_files:
