@@ -13,7 +13,9 @@ list_of_files = [
     "app.py",
     "research/trials.ipynb",
     "requirements.txt",
-    "store_index.py"
+    "store_index.py",
+    "app.py",
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:

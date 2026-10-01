@@ -7,3 +7,7 @@
 # pip install -r requirements.txt
 
 # python store_index.py
+
+# python app.py (main Application)
+
+http://locahost:8080
